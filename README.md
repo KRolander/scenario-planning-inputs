@@ -50,7 +50,7 @@ The **`Scenario_settings/`** contains all the validated scenario settings. **`se
     - vis_config.json -  arameters for the evaluator
 
 
-- **`setting_C/`** - scenario at Kleine Binckhorst 10 trains random 42s distribution 1
+- **`setting_C/`** - scenario at Kleine Binckhorst 10 trains random 42 seed distribution 1
     - **location.json** - Kleine Binckhorst evaluator format
     - **location_solver.json** - Kleine Binckhorst solver format
     - **scenario.json** - 10 trains custom config evaluator format
@@ -60,7 +60,7 @@ The **`Scenario_settings/`** contains all the validated scenario settings. **`se
     - vis_config.json -  arameters for the evaluator
 
 
-- **`setting_D/`** - scenario at Kleine Binckhorst 10 trains random 42s distribution 2
+- **`setting_D/`** - scenario at Kleine Binckhorst 10 trains random 42 seed distribution 2
     - **location.json** - Kleine Binckhorst evaluator format
     - **location_solver.json** - Kleine Binckhorst solver format
     - **scenario.json** - 10 trains custom config evaluator format
