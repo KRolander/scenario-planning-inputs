@@ -26,7 +26,7 @@ The **`Scenario_settings/`** contains all the validated scenario settings. **`se
 ## Repository structure
 
 ### `Locations/`
-- **`Kleine Binckhorst/`** - shunting yard in The Hague
+- **`Kleine_Binckhorst/`** - shunting yard in The Hague
     - `location.json` - robust-rail-evaluator format
     - `location_solver.json` - robust-rail-solver format
 
